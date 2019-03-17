@@ -1,3 +1,5 @@
+MySQLとの接続に使用しているMySQL-pythonがPython3に対応していないのか、3/17に試してみて上手くいかないので、対応を考えています。
+
 # niscscrapy
 
 * Scrapyを使用
